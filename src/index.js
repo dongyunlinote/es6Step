@@ -3,9 +3,6 @@ let a = 123456
 
 let b = 456; 
 
-
-let master;
-
-let v;
+let master = "master"
 
 
